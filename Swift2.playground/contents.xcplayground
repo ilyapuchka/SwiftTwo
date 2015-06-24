@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' requires-full-environment='true' display-mode='rendered'>
+    <pages>
+        <page name='Overview'/>
+        <page name='Protocol Extensions'/>
+        <page name='Error handling'/>
+        <page name='Error handling 2'/>
+        <page name='Error handling 3'/>
+        <page name='Error handling 4'/>
+        <page name='Guard, deffer'/>
+        <page name='Pattern matching and filtering'/>
+        <page name='OptionalSetType'/>
+        <page name='ObjC-Swift'/>
+        <page name='Misc'/>
+    </pages>
+</playground>
